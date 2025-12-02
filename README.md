@@ -7,18 +7,21 @@
 
 - Полный плейлист
 
-`https://live.ru.tuna.am/live/IPTVboom.m3u`
-
+```
+https://live.ru.tuna.am/live/IPTVboom.m3u
+```
 
 - Урезанный
-
-`https://live.ru.tuna.am/live/IPTVboom-.m3u`
-
+- 
+```
+https://live.ru.tuna.am/live/IPTVboom-.m3u
+```
 
 - Только детские каналы
 
-`https://live.ru.tuna.am/live/IPTVboomKids.m3u`
-
+```
+https://live.ru.tuna.am/live/IPTVboomKids.m3u
+```
 
 ### Вклад
 
