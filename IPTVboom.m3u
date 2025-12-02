@@ -43,7 +43,7 @@ https://iptvx.one/imgz/gowno.png
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1 tvg-id="ftv" group-title="Абсурдные",ФРИК TV
+#EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/live/logo.png" group-title="Абсурдные",ФРИК TV
 https://83toydjddi9.a.trbcdn.net/livemaster/ykotr_9ffnc38ckj.smil/rewind-43200.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
