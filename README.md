@@ -12,7 +12,7 @@ https://live.ru.tuna.am/live/IPTVboom.m3u
 ```
 
 - Урезанный
-- 
+  
 ```
 https://live.ru.tuna.am/live/IPTVboom-.m3u
 ```
