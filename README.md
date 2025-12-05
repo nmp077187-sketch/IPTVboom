@@ -23,7 +23,7 @@ https://live.ru.tuna.am/live/IPTVboom-.m3u
 https://live.ru.tuna.am/live/IPTVboomKids.m3u
 ```
 
-### Вклад
+# Вклад
 
 Вы можете предложить новые ссылки или вариации плейлиста через Pull Request.
 
