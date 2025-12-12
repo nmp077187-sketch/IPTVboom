@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG_LITE"
-#PLAYLIST:IPTVru (Rostelecom order)
+#PLAYLIST:IPTVboom
 
 # Основные федеральные каналы (1-20)
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",ОРТ HD
