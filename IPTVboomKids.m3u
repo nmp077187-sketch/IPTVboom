@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG_LITE"
-#PLAYLIST:IPTVru (Rostelecom order)
+#PLAYLIST:IPTVboom
 
 #EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/live/logo.png" group-title="Абсурдные",ФРИК TV
 https://83toydjddi9.a.trbcdn.net/livemaster/ykotr_9ffnc38ckj.smil/rewind-43200.m3u8
