@@ -62,7 +62,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="gagsnetwork" group-title="18+",Gags Network
-http://s.only4.tv/6875/video.m3u8?token=saveUkrain
+http://s.only4.tv/6875/video.m3u8
 
 # Развлекательные каналы (20-35)
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные",2x2
@@ -431,6 +431,9 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atv" tvg-logo="https://live.ru.tuna.am/live/atv.png",АТВ
 https://live.ru.tuna.am/live/y00rbylz6uc8x3abs9lp.mp4
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="https://live.ru.tuna.am/live/18+.png",XXX Porn Free 4K FHD
+https://live.ru.tuna.am/live/1218.mp4
 
 # Радиостанции (171-180)
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
