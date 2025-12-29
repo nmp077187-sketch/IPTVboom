@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG_LITE,https://live.ru.tuna.am/live/epg.xml"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG_LITE,https://live.ru.tuna.am/epg.xml"
 #PLAYLIST:IPTVboom
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",ОРТ HD
@@ -422,7 +422,7 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 https://live.ru.tuna.am/live/y00rbylz6uc8x3abs9lp.mp4
 
 #EXTINF:-1 tvg-id="xxx" tvg-logo="https://live.ru.tuna.am/live/18+.png" group-title="18+",XXX Porn Free 4K FHD
-https://live.ru.tuna.am/live/1218.mp4
+https://live.ru.tuna.am/1218.mp4
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
 http://icecast-radiocraft.cdnvideo.ru/avtoradio
