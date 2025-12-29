@@ -39,7 +39,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/live/logo.png" group-title="Абсурдные",Телеканал «Фрик TV»
+#EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Абсурдные",Телеканал «Фрик TV»
 https://83toydjddi9.a.trbcdn.net/livemaster/ykotr_9ffnc38ckj.smil/rewind-43200.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
@@ -418,10 +418,10 @@ https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="Региональные",Енисей HD (Красноярск)
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="atv" tvg-logo="https://live.ru.tuna.am/live/atv.png",АТВ
+#EXTINF:-1 tvg-id="atv" tvg-logo="https://live.ru.tuna.am/atv.png",АТВ
 https://live.ru.tuna.am/live/y00rbylz6uc8x3abs9lp.mp4
 
-#EXTINF:-1 tvg-id="xxx" tvg-logo="https://live.ru.tuna.am/live/18+.png" group-title="18+",XXX Porn Free 4K FHD
+#EXTINF:-1 tvg-id="xxx" tvg-logo="https://live.ru.tuna.am/18+.png" group-title="18+",XXX Porn Free 4K FHD
 https://live.ru.tuna.am/1218.mp4
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
