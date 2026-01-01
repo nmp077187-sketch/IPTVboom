@@ -40,7 +40,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Детские",Телеканал «Фрик TV»
-https://83toydjddi9.a.trbcdn.net/livemaster/ykotr_9ffnc38ckj.smil/rewind-43200.m3u8
+https://live.ru.tuna.am/live/ftv/freaktv/720p
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -61,8 +61,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="gagsnetwork" group-title="18+",Gags Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Tricolor STB) AppleWebKit/537.36
-https://stream-msk-04.ott.tricolor.tv/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjA0NDkwMTExNzY5MCIsImV4cCI6MTc2NzM3NzY3NSwiaHdpZCI6ImFkODgxOGY3MjA1NmU0OWU0Mjc3MDA5ZTY3NTEzNjMzNjM2YjJlZDk1Yjc0MWViMDQyZWRmYTcwMDg2OWI4ZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NzcyODc1LCJzZXNzaW9uX2lkIjoiYWZlODI0N2ZlMTU5YzM0NDdiNmVlMDg0M2E0Yzk2MTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.R_mHYptWSC0phPTnVwKsK2gkhT5dkzHV-YOwvUW2LjI
+http://46.46.143.222:8081/gags/index.m3u8
 
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="Развлекательные",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
