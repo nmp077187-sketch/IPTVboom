@@ -23,6 +23,12 @@ https://live.ru.tuna.am/IPTVboom-.m3u
 https://live.ru.tuna.am/IPTVboomKids.m3u
 ```
 
+- Только беларусские
+
+```
+https://live.ru.tuna.am/IPTVboomBel.m3u
+```
+
 # Вклад
 
 Вы можете предложить новые ссылки или вариации плейлиста через Pull Request.
