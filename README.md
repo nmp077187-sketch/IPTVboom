@@ -23,7 +23,7 @@ https://live.ru.tuna.am/IPTVboom-.m3u
 https://live.ru.tuna.am/IPTVboomKids.m3u
 ```
 
-- Только беларусские
+- Только белорусские
 
 ```
 https://live.ru.tuna.am/IPTVboomBel.m3u
