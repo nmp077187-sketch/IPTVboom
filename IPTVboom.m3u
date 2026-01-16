@@ -75,7 +75,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
 #EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Информационные",Санкт-Петербург
-https://vsd119.okcdn.ru/hls/370421861009.m3u8/sig/lF7Z1bGLnkQ/expires/1768327931329/srcIp/5.228.117.122/urls/45.136.22.40/clientType/0/srcAg/CHROME/mid/443344297617/video.m3u8?p
+https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Информационные",Беларусь 24
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w52811569_b5160000_sleng.m3u8
@@ -219,7 +219,7 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Кино и сериалы",Русский детектив
-http://cdn-01.bonus-tv.ru/rusdetektiv/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/RusskiyDetektiv/mono.m3u8
 
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="Кино и сериалы",Телекафе
 http://45.11.139.43:8555/telekafe/index.m3u8
@@ -407,9 +407,6 @@ http://cdn-01.bonus-tv.ru/zdorovoe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Хобби и увлечения",Мужской HD
 http://cdn-01.bonus-tv.ru/mujskoy/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Региональные",Санкт-Петербург HD
-https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sochi-live" tvg-logo="https://iptvx.one/picons/sochi-live.png" group-title="Региональные",Sochi Live HD (Сочи)
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
