@@ -40,7 +40,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Детские",Телеканал «Фрик TV»
-https://live.ru.tuna.am/live/ftv/freaktv/720p
+https://live.ru.tuna.am/chs/dtv/iptv/ch_freaktv/720p
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -391,7 +391,7 @@ http://cdn-01.bonus-tv.ru/bobr/tracks-v1a1/mono.m3u8
 http://cdn-01.bonus-tv.ru/dialogi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Хобби и увлечения",Доктор
-http://cdn-01.bonus-tv.ru/doktor/tracks-v1a1/mono.m3u8
+https://s.xittv.net/nixSucg7QYTihZOfyos8Xw/120/1768666284/index.m3u8
 
 #EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Хобби и увлечения",ДРАЙВ
 http://cdn-01.bonus-tv.ru/draiv/tracks-v1a1/mono.m3u8
