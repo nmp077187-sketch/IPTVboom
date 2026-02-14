@@ -40,7 +40,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Детские",Телеканал «Фрик TV»
-https://live.ru.tuna.am/chs/dtv/iptv/ch_freaktv/720p
+https://freaktv.ru/chs/dtv/iptv/ch_freaktv/720p
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -97,6 +97,10 @@ https://vsd173.okcdn.ru/hls/8083234884102.m3u8/sig/sx6SrBO6GKA/expires/176832826
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыкальные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",Рен TV
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
@@ -133,6 +137,15 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Развлекательные",НТВ Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="teatr" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="Развлекательные",Театр
+http://46.8.46.14/Teatr/index.m3u8
+
+#EXTINF:-1 tvg-id="teledom" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные",Теледом HD
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
+#EXTINF:-1 tvg-id="rutube-tv" tvg-logo="https://live.ru.tuna.am/RTV.png" group-title="Развлекательные",Rutube TV
+https://river-m9-rtk-388.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/eFlaj610VboYbXjMks8KMA/1770479935/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
