@@ -8,25 +8,25 @@
 - Полный плейлист
 
 ```
-https://freaktv.ru/IPTVboom.m3u
+https://www.freaktv.ru/IPTVboom.m3u
 ```
 
 - Урезанный
   
 ```
-https://freaktv.ru/IPTVboom-.m3u
+https://www.freaktv.ru/IPTVboom-.m3u
 ```
 
 - Только детские каналы
 
 ```
-https://freaktv.ru/IPTVboomKids.m3u
+https://www.freaktv.ru/IPTVboomKids.m3u
 ```
 
 - Только белорусские
 
 ```
-https://freaktv.ru/IPTVboomBel.m3u
+https://www.freaktv.ru/IPTVboomBel.m3u
 ```
 
 # Вклад
