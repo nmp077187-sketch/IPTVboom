@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG_LITE,https://live.ru.tuna.am/epg.xml"
 #PLAYLIST:IPTVboom
 
-#EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Детские",ФРИК TV
-https://83toydjddi9.a.trbcdn.net/livemaster/ykotr_9ffnc38ckj.smil/rewind-43200.m3u8
+#EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Детские",Телеканал «Фрик TV»
+https://freaktv.ru/chs/dtv/iptv/ch_freaktv/720p
 
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
