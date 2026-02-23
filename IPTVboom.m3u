@@ -40,7 +40,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-id="freaktv" tvg-logo="https://live.ru.tuna.am/logo.png" group-title="Детские",Телеканал «Фрик TV»
-https://freaktv.ru/chs/dtv/iptv/ch_freaktv/720p
+https://www.freaktv.ru/chs/dtv/iptv/ch_freaktv/720p
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -483,3 +483,6 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 
 #EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
+
+#EXTINF-1 tvg-id="moscow-fm" tvg-logo="https://iptvx.one/picons/moscow-fm.png" group-title="Радио",Москва FM
+https://icecast-vgtrk.cdnvideo.ru/moscowfm128
