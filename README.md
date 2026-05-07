@@ -8,7 +8,7 @@
 - Полный плейлист
 
 ```
-https://www.freaktv.ru/IPTVboom.m3u
+https://www.freaktv.ru/seks.m3u
 ```
 
 - Урезанный
